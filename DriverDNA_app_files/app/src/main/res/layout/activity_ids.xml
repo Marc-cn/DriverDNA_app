@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Mean"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenuChoice"
+    android:background="#ffffff">
+
+
+    <Button
+        android:id="@+id/IDSresult"
+        android:layout_width="337dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="5dp"
+        android:text="IDS RISK COLOR:"
+        android:textSize="28sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.122"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.91" />
+
+    <Button
+        android:id="@+id/buttonmenuaskids"
+        android:layout_width="700dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="SEND DATA"
+        android:textSize="28sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.542"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.383" />
+
+    <Button
+        android:id="@+id/buttonmenuaskids2"
+        android:layout_width="700dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="START IDS"
+        android:textSize="28sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.542"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.613" />
+
+    <ImageView
+        android:id="@+id/logoicon"
+        android:layout_width="176dp"
+        android:layout_height="82dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.964"
+        app:layout_constraintStart_toEndOf="@+id/backarrowmenu"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo" />
+
+    <ImageButton
+        android:id="@+id/backarrowmenu"
+        android:layout_width="46dp"
+        android:layout_height="49dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.076"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.046"
+        app:srcCompat="@drawable/back" />
+
+    <ImageView
+        android:id="@+id/greyB"
+        android:layout_width="176dp"
+        android:layout_height="82dp"
+        android:layout_marginTop="316dp"
+        android:background="@android:color/transparent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.629"
+        app:layout_constraintStart_toEndOf="@+id/backarrowmenu"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/grey" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="133dp"
+        android:layout_height="83dp"
+        android:justificationMode="inter_word"
+        android:fontFamily="sans-serif-black"
+        android:text="Risk color map for CAN messages: Red-Malicious; Yellow: Sospicious; Green: Regular"
+        android:textSize="10sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.955"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.903" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

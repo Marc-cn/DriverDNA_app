@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/vehicle_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    android:orientation="vertical"
+    android:clipChildren="false">
+
+
+    <TableRow
+
+        android:id="@+id/menuoptions"
+        android:layout_width="800dp"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:id="@+id/backarrowobdmain"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:gravity="clip_horizontal|center"
+            android:src="@drawable/back" />
+
+        <Button
+            android:id="@+id/buttonStart"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="50dp"
+            android:layout_marginLeft="10dp"
+            android:background="#52B041"
+            android:gravity="clip_horizontal|center"
+            android:text="START"
+            android:visibility="visible" />
+
+        <Button
+            android:id="@+id/buttonStop"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="0dp"
+            android:background="#BF0000"
+            android:gravity="clip_horizontal|center"
+            android:text="STOP"
+            android:visibility="visible" />
+
+
+        <Button
+            android:id="@+id/buttonSettings"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginLeft="5dp"
+            android:background="#B3B3B3"
+            android:gravity="clip_horizontal|center"
+            android:text="Settings"
+            android:visibility="visible" />
+
+        <Button
+            android:id="@+id/buttonPair"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginLeft="5dp"
+            android:background="#B3B3B3"
+            android:gravity="clip_horizontal|center"
+            android:text="Pair"
+            android:visibility="visible" />
+
+    </TableRow>
+
+
+    <TextView
+        android:id="@+id/speedview"
+        android:layout_width="250dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="170dp"
+        android:layout_marginLeft="170dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginEnd="12dp"
+        android:layout_marginRight="23dp"
+        android:layout_weight="1"
+        android:gravity="right"
+        android:tag="SPEED"
+        android:text="@string/text_zero"
+        android:textSize="70sp" />
+
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="49dp"
+        android:layout_marginStart="170dp"
+        android:layout_marginLeft="170dp"
+        android:layout_marginTop="160dp"
+        android:layout_marginEnd="12dp"
+        android:layout_marginRight="23dp"
+        android:layout_weight="1"
+        android:gravity="right"
+        android:tag="ENGINE_RPM"
+        android:text="RPM"
+        android:textSize="34sp" />
+
+    <TextView
+        android:id="@+id/text_engine_runtime"
+        android:layout_width="250dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="170dp"
+        android:layout_marginLeft="170dp"
+        android:layout_marginTop="220dp"
+        android:layout_marginEnd="12dp"
+        android:layout_marginRight="23dp"
+        android:layout_weight="1"
+        android:gravity="right"
+        android:tag="ENGINE_RUNTIME"
+        android:text="@string/text_runtime_default"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textbl"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentBottom="false"
+        android:layout_marginStart="31dp"
+        android:layout_marginLeft="31dp"
+        android:layout_marginTop="100dp"
+        android:text="@string/text_bluetooth"
+        android:textSize="@dimen/abc_text_size_medium_material" />
+
+    <TextView
+        android:id="@+id/textobd"
+        android:layout_width="80dp"
+        android:layout_height="25dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="31dp"
+        android:layout_marginLeft="31dp"
+        android:layout_marginTop="170dp"
+        android:layout_weight="1"
+        android:text="@string/text_obd"
+        android:textSize="@dimen/abc_text_size_medium_material" />
+
+    <TextView
+        android:id="@+id/BT_STATUS"
+        android:layout_width="100dp"
+        android:layout_height="35dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="31dp"
+        android:layout_marginTop="125dp"
+        android:layout_weight="1"
+        android:text=""
+        tools:layout_marginTop="130dp" />
+
+    <TextView
+        android:id="@+id/OBD_STATUS"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="31dp"
+        android:layout_marginLeft="31dp"
+        android:layout_marginTop="200dp"
+        android:layout_marginBottom="253dp"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/textViewprotocol"
+        android:layout_width="250dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="31dp"
+        android:layout_marginLeft="31dp"
+        android:layout_marginTop="270dp"
+        android:layout_marginRight="23dp"
+        android:layout_marginBottom="60dp"
+        android:gravity="left"
+        android:tag="DESCRIBE_PROTOCOL"
+        android:text="Protocol"
+        android:textSize="14sp" />
+
+    <org.osmdroid.views.MapView
+        android:id="@+id/map"
+        android:layout_width="297dp"
+        android:layout_height="270dp"
+        android:layout_marginStart="440dp"
+        android:layout_marginLeft="440dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_weight="1"
+        android:gravity="right"
+        android:tag="MAP" />
+
+
+</RelativeLayout>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/AndroidBasic2/app/src/main/res/layout/activity_example1.xml" value="0.1796875" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/AndroidBasic2/app/src/main/res/layout/activity_example2.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/AndroidBasic2/app/src/main/res/layout/activity_example3.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/AndroidBasic2/app/src/main/res/layout/activity_example4.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/AndroidBasic2/app/src/main/res/layout/activity_example5.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/AndroidBasic2/app/src/main/res/layout/activity_main.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor1/app/src/main/res/layout/activity_example1.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor1/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor1/app/src/main/res/layout/activity_speed.xml" value="0.109375" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor10/app/src/main/res/layout/activity_bluetooth.xml" value="0.22" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor10/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor10/app/src/main/res/layout/activity_menu.xml" value="0.5" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor11/app/src/main/res/layout/activity_bluetooth.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor11/app/src/main/res/layout/activity_driverdna.xml" value="0.1296875" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor11/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor11/app/src/main/res/layout/activity_menu.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor13/app/src/main/res/layout/activity_bluetooth.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor14/app/src/main/res/layout/BluetoothConnect.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor14/app/src/main/res/layout/activity_bluetooth.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor14/app/src/main/res/layout/activity_bluetooth_connect.xml" value="0.22" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor14/app/src/main/res/layout/bluetooth_connect.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor15_java/app/src/main/res/layout/activity_bluetooth_connect.xml" value="0.22" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor15_java/app/src/main/res/layout/activity_obdarea.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor17_java/app/src/main/res/layout/activity_bluetooth_connect.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor17_java/app/src/main/res/layout/activity_trips_list.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor17_java/app/src/main/res/layout/main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor17_java/app/src/main/res/layout/row_trip_list.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor17_java/app/src/main/res/layout/trouble_codes.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor17_java/app/src/main/res/menu/context_trip_list.xml" value="0.1537037037037037" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor17_java/app/src/main/res/menu/main.xml" value="0.1537037037037037" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor17_java/app/src/main/res/menu/menu_trips_list.xml" value="0.1537037037037037" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor17_java/app/src/main/res/menu/trouble_codes.xml" value="0.1537037037037037" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor18_java/app/src/main/res/layout/main.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor18_java/app/src/main/res/menu/context_trip_list.xml" value="0.12135416666666667" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor18_java/app/src/main/res/menu/main.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor18_java/app/src/main/res/menu/main_menu.xml" value="0.22" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor18_java/app/src/main/res/menu/menu_trips_list.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor19_java/app/src/main/res/layout/activity_askservice.xml" value="0.11639492753623189" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor19_java/app/src/main/res/layout/main.xml" value="0.22" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor19_java/app/src/main/res/menu/main_menu.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor2/app/src/main/res/layout/activity_example1.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor21_java/app/src/main/res/layout/activity_menu.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor22_java/app/src/main/res/layout/activity_bluetooth_connect.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor22_java/app/src/main/res/layout/activity_driverdna.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor22_java/app/src/main/res/layout/activity_main.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor22_java/app/src/main/res/layout/activity_menu.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor22_java/app/src/main/res/layout/activity_obdarea.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor22_java/app/src/main/res/layout/activity_turning.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor22_java/app/src/main/res/layout/main.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor23_java/app/src/main/res/layout/activity_bluetooth_connect.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor23_java/app/src/main/res/layout/activity_driverdna.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor23_java/app/src/main/res/layout/activity_menu.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor23_java/app/src/main/res/layout/main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor25_java/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1625" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor25_java/app/src/main/res/layout/activity_askservice.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor25_java/app/src/main/res/layout/activity_bluetooth_connect.xml" value="0.22" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor25_java/app/src/main/res/layout/activity_driverdna.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor25_java/app/src/main/res/layout/main.xml" value="0.12" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor26_java_JSON/app/src/main/res/layout/activity_bluetooth_connect.xml" value="0.10348360655737705" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor26_java_JSON/app/src/main/res/layout/activity_main.xml" value="0.10348360655737705" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor26_java_JSON/app/src/main/res/layout/main.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor27_java_JSON/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor28_java_JSON/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor28_java_JSON/app/src/main/res/layout/main.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor28_java_JSON/app/src/main/res/layout/test.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor29_java_JSON/app/src/main/res/layout/activity_main.xml" value="0.11919398907103824" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor29_java_JSON/app/src/main/res/xml/preferences.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor31_java_JSON/app/src/main/res/layout/activity_bluetooth_connect.xml" value="0.100390625" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor31_java_JSON/app/src/main/res/xml/preferences.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor36_java/app/src/main/res/layout/activity_bluetooth_connect.xml" value="0.12568306010928962" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor36_java/app/src/main/res/layout/activity_menu.xml" value="0.12568306010928962" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor36_java/app/src/main/res/layout/backbutton.xml" value="0.12568306010928962" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor36_java/app/src/main/res/layout/main.xml" value="0.12568306010928962" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor36_java/app/src/main/res/xml/preferences.xml" value="0.12568306010928962" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor37_java/app/src/main/res/layout/activity_menu.xml" value="0.12260928961748634" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor37_java/app/src/main/res/layout/main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor39_java/app/src/main/res/layout/activity_bluetooth_connect.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor39_java/app/src/main/res/layout/main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor4/app/src/main/res/layout/activity_breaking.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor4/app/src/main/res/layout/activity_driverdna.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor4/app/src/main/res/layout/activity_main.xml" value="0.12907608695652173" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor4/app/src/main/res/layout/activity_menu.xml" value="0.22" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor4/app/src/main/res/layout/activity_rpm.xml" value="0.22" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor4/app/src/main/res/layout/activity_speeding.xml" value="0.22" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor4/app/src/main/res/layout/activity_turning.xml" value="0.12" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor40_java/app/src/main/res/layout/main.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor42_java/app/src/main/res/layout/main.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor43_java_CNR/app/src/main/res/layout/activity_bluetooth_connect.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor43_java_CNR/app/src/main/res/layout/main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor44_java_GPS/app/src/main/res/layout/main.xml" value="0.22" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor47_java_CALLDPO/app/src/main/res/layout/main.xml" value="0.12207207207207207" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor49_java_CALLDPO/app/src/main/res/layout/main.xml" value="0.12207207207207207" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor5/app/src/main/res/layout/activity_askservice.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor5/app/src/main/res/layout/activity_driverdna.xml" value="0.1480978260869565" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor5/app/src/main/res/layout/activity_menu.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor5/app/src/main/res/layout/activity_speeding.xml" value="0.22" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor5/app/src/main/res/layout/activity_turning.xml" value="0.7333333333333334" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor52_java/app/src/main/res/layout/main.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor52_java_COMANDI DAVIDE/app/src/main/res/xml/preferences.xml" value="0.14945652173913043" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor53_java/app/src/main/res/layout/activity_askservice.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor53_java/app/src/main/res/layout/activity_callanalytic.xml" value="0.11531531531531532" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor53_java/app/src/main/res/layout/main.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor53_java/app/src/main/res/xml/preferences.xml" value="0.10135135135135136" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor54_java/app/src/main/res/layout/main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor55_java_MAP/app/src/main/res/layout/main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor57_java_MAP/app/src/main/res/layout/activity_menu.xml" value="0.11891891891891893" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor57_java_MAP/app/src/main/res/layout/backbutton.xml" value="0.11891891891891893" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor57_java_MAP/app/src/main/res/layout/device_adapter_view.xml" value="0.11891891891891893" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor57_java_MAP/app/src/main/res/layout/main.xml" value="0.11891891891891893" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor57_java_MAP/app/src/main/res/layout/row_trip_list.xml" value="0.11891891891891893" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor57_java_MAP/app/src/main/res/layout/test.xml" value="0.22" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor57_java_MAP/app/src/main/res/layout/trouble_codes.xml" value="0.11891891891891893" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor59_java/app/src/main/res/layout/main.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor6/app/src/main/res/layout/activity_driverdna.xml" value="0.22" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor60_java/app/src/main/res/layout/main.xml" value="0.1063063063063063" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor61_java - 0/app/src/main/res/layout/activity_main.xml" value="0.14189189189189189" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor61_java/app/src/main/res/layout/activity_bluetooth_connect.xml" value="0.1554054054054054" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor63_java/app/src/main/res/layout/activity_main.xml" value="0.1009009009009009" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor63_java/app/src/main/res/layout/main.xml" value="0.1009009009009009" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor64_java_ASK_SERVICE/app/src/main/res/layout/activity_callanalytic.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor64_java_ASK_SERVICE/app/src/main/res/layout/activity_main.xml" value="0.12837837837837837" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor64_java_ASK_SERVICE/app/src/main/res/layout/main.xml" value="0.12837837837837837" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor65_java_S2P/app/src/main/res/layout/activity_askservice.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor65_java_S2P/app/src/main/res/layout/activity_bluetooth_connect.xml" value="0.12454710144927536" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor65_java_S2P/app/src/main/res/layout/activity_callanalytic.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor65_java_S2P/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor65_java_S2P/app/src/main/res/layout/main.xml" value="0.12454710144927536" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor7/app/src/main/res/layout/activity_askservice.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor7/app/src/main/res/layout/activity_breaking.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor7/app/src/main/res/layout/activity_driverdna.xml" value="0.22" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor7/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor7/app/src/main/res/layout/activity_menu.xml" value="0.10104166666666667" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor7/app/src/main/res/layout/activity_rpm.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor7/app/src/main/res/layout/activity_speeding.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor7/app/src/main/res/layout/activity_turning.xml" value="0.10104166666666667" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor7/app/src/main/res/menu/radar.xml" value="0.11875" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/E-Corridor_60_java/app/src/main/res/layout/main.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor66_java/app/src/main/res/layout/activity_askservice.xml" value="0.11141304347826086" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor66_java/app/src/main/res/layout/activity_callanalytic.xml" value="0.11141304347826086" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor66_java/app/src/main/res/layout/activity_calltotem.xml" value="0.11261261261261261" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor66_java/app/src/main/res/layout/activity_main.xml" value="0.12817028985507245" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor66_java/app/src/main/res/layout/main.xml" value="0.12817028985507245" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor67_java_March_22/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor69_java_KEYCLOACK/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor70_java_KEYCLOACK/app/src/main/res/layout/activity_callanalytic.xml" value="0.12387387387387387" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor71_java/app/src/main/res/layout/activity_callanalytic.xml" value="0.22" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor71_java/app/src/main/res/layout/activity_driverdna.xml" value="0.14990942028985507" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor71_java/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor71_java/app/src/main/res/layout/activity_menu.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor71_java/app/src/main/res/layout/activity_mydriverdna.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor71_java/app/src/main/res/layout/backbutton.xml" value="0.1009009009009009" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor71_java/app/src/main/res/layout/device_adapter_view.xml" value="0.1009009009009009" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor71_java/app/src/main/res/layout/row_trip_list.xml" value="0.1009009009009009" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor71_java/app/src/main/res/layout/test.xml" value="0.1009009009009009" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor72_java/app/src/main/res/layout/activity_askservice.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor72_java/app/src/main/res/layout/activity_callanalytic.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor72_java/app/src/main/res/layout/activity_calltotem.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor72_java/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor72_java/app/src/main/res/layout/activity_menu.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor72_java/app/src/main/res/layout/activity_mydriverdna.xml" value="0.10720720720720721" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor72_java/app/src/main/res/layout/activity_service1.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor72_java/app/src/main/res/layout/activity_service1_1.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor72_java/app/src/main/res/layout/activity_servicehistory.xml" value="0.1518018018018018" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor72_java/app/src/main/res/layout/main.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor72_java/app/src/main/res/layout/test.xml" value="0.10720720720720721" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor73_java/app/src/main/res/layout/activity_main.xml" value="0.11621621621621622" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor73_java/app/src/main/res/layout/activity_service1.xml" value="0.11621621621621622" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor73_java/app/src/main/res/layout/activity_servicehistory.xml" value="0.11621621621621622" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor74_java/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/marco/Desktop/ANDROID_APP/VERSIONS/E-Corridor75_java_KIA/app/src/main/res/layout/activity_main.xml" value="0.109009009009009" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <writeAnnotations>
+      <writeAnnotation name="com.google.inject.Inject" />
+    </writeAnnotations>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
